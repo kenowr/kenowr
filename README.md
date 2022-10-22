@@ -1,10 +1,6 @@
 # Homepage of Kenneth Ooi
 
-## Contact
-
 Hi! I'm Kenneth, and I'm currently a PhD student at the School of Electrical Engineering, Nanyang Technological University, Singapore. My current research focuses on developing artificial intelligence techniques for soundscape augmentation, but I dabble in other projects related to soundscapes and acoustics here and there.
-
-Please feel free to reach me via email (preferred) at [wooi002@e.ntu.edu.sg](mailto:wooi002@e.ntu.edu.sg) or phone at +65-67906901 if you would like to contact me.
 
 ## About this page
 
@@ -125,3 +121,7 @@ Generally, links to the different resources are classified under the following t
 
 - Extra Questions and Suggested Solutions 
   - [[overleaf]](https://www.overleaf.com/read/dvqjkkwcvqjn)
+  
+## Contact
+
+Please feel free to reach me via email (preferred) at [wooi002@e.ntu.edu.sg](mailto:wooi002@e.ntu.edu.sg) or phone at +65-67906901 if you would like to contact me.
