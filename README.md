@@ -1,8 +1,12 @@
 # Homepage of Kenneth Ooi
 
-## Introduction
+## Contact
 
-Hi! I'm Kenneth, and I'm currently a PhD student at Nanyang Technological University, Singapore.
+Hi! I'm Kenneth, and I'm currently a PhD student at the School of Electrical Engineering, Nanyang Technological University, Singapore. My current research focuses on developing artificial intelligence techniques for soundscape augmentation, but I dabble in other projects related to soundscapes and acoustics here and there.
+
+Please feel free to reach me via email (preferred) at [wooi002@e.ntu.edu.sg](mailto:wooi002@e.ntu.edu.sg) or phone at +65-67906901 if you would like to contact me.
+
+## About this page
 
 This page lists down a selection of publications that I have led or have been involved in, accompanied with publicly-accessible, paywall-free links to resources related to those publications. Publications are listed in reverse chronological order of publication/presentation date under their respective section headings. In addition to my publications, I have also included some code snippets and resources that I have created/used myself over the course of teaching content related to university-level courses.
 
@@ -15,7 +19,7 @@ Generally, links to the different resources are classified under the following t
 - [[demo]]: Demos on [YouTube](https://www.youtube.com/) showing an embodiment of the system described within the publication.
 - [[xxxxx]]: Other types of resources, where "xxxxx" is replaced with a suitable descriptor.
 
-## Code Snippets
+## Code snippets
 
 - MATLAB GUI for Soundscape Attributes Translation Project Stage 2 Validation Experiments 
   - [[code]](https://github.com/kenowr/satp-gui) [[gui-demo-1]](https://www.youtube.com/watch?v=TRRQxgYLnUE) [[gui-demo-2]](https://www.youtube.com/watch?v=LyxceoRABsc) 
@@ -121,7 +125,3 @@ Generally, links to the different resources are classified under the following t
 
 - Extra Questions and Suggested Solutions 
   - [[overleaf]](https://www.overleaf.com/read/dvqjkkwcvqjn)
- 
-## Contact
-
-Please feel free to reach me via email at [wooi002@e.ntu.edu.sg](mailto:wooi002@e.ntu.edu.sg).
