@@ -27,7 +27,7 @@ Generally, links to the different resources are classified under the following t
 ### As first author
 
 - Singapore Soundscape Site Selection Survey (S5): Identification of Characteristic Soundscapes of Singapore via Weighted _k_-means Clustering (Kenneth Ooi et al., 2022)
-  - MDPI Sustainability _Special Issue on Designing Sustainable Urban Soundscapes_ [[manuscript]](https://doi.org/10.3390/su14127485) [[code]](https://github.com/ntudsp/singapore-soundscape-site-selection-survey) [[dataset]](https://doi.org/10.21979/N9/BBBPMO) [[map]](https://www.google.com/maps/d/u/0/edit?mid=16fjoOwG-AnmwhTfc4MR11DrL_6iDL979) 
+  - MDPI Sustainability _Special Issue on Designing Sustainable Urban Soundscapes_ [[manuscript]](https://doi.org/10.3390/su14127485) [[code]](https://github.com/ntudsp/singapore-soundscape-site-selection-survey) [[dataset]](https://doi.org/10.21979/N9/BBBPMO) [[map]](https://www.google.com/maps/d/u/0/edit?mid=16fjoOwG-AnmwhTfc4MR11DrL_6iDL979) [[slides]](https://www.overleaf.com/read/srcgjvrhwgth) 
 - Probably Pleasant? A Neural-Probabilistic Approach to Automatic Masker Selection for Urban Soundscape Augmentation (Kenneth Ooi et al., 2022)
   - 47th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2022) [[manuscript]](https://hdl.handle.net/10356/158000) [[dataset]](https://doi.org/10.21979/N9/YSJQKD) [[video]](https://www.youtube.com/watch?v=5Fy1fbZOjfQ) 
 - ARAUS: A Large-Scale Dataset and Baseline Models of Affective Responses to Augmented Urban Soundscapes (Kenneth Ooi et al., 2022)
@@ -46,7 +46,7 @@ Generally, links to the different resources are classified under the following t
 ### As co-author
 
 - Do uHear? Validation of uHear App for Preliminary Screening of Hearing Ability in Soundscape Studies (Zhen-Ting Ong et al., 2022)
-  - 24th International Congress on Acoustics (ICA 2022) [[manuscript]](https://arxiv.org/abs/2207.09221) [[code]](https://github.com/ntudsp/douHear) [[dataset]](https://doi.org/10.21979/N9/JQDI6F) 
+  - 24th International Congress on Acoustics (ICA 2022) [[manuscript]](https://arxiv.org/abs/2207.09221) [[code]](https://github.com/ntudsp/douHear) [[dataset]](https://doi.org/10.21979/N9/JQDI6F) [[slides]](https://www.overleaf.com/read/jjwjmvpmztfr) 
 - Deployment of an IoT System for Adaptive In-Situ Soundscape Augmentation (Trevor Wong et al., 2022)
   - 51st International Congress and Exposition on Noise Control Engineering (Inter-Noise 2022) [[manuscript]](https://arxiv.org/abs/2204.13890) 
 - Assessing the Perceived Indoor Acoustic Environment Quality Across Building Occupants in a Tertiary-Care Public Hospital in Singapore (Bhan Lam et al., 2022)
