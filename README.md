@@ -15,10 +15,10 @@ Generally, links to the different resources are classified under the following t
 - [[demo]]: Demos on [YouTube](https://www.youtube.com/) showing an embodiment of the system described within the publication.
 - [[xxxxx]]: Other types of resources, where "xxxxx" is replaced with a suitable descriptor.
 
-## Code snippets
+## Code Snippets
 
 - MATLAB GUI for Soundscape Attributes Translation Project Stage 2 Validation Experiments 
-  - [[code]](https://github.com/kenowr/satp-gui) [[gui-demo-1]](https://www.youtube.com/watch?v=TRRQxgYLnUE) [[gui-demo-2]](https://www.youtube.com/watch?v=LyxceoRABsc) 
+  - [[code]](https://github.com/kenowr/satp-gui) [[gui]](https://github.com/kenowr/satp-gui) [[gui-demo-1]](https://www.youtube.com/watch?v=TRRQxgYLnUE) [[gui-demo-2]](https://www.youtube.com/watch?v=LyxceoRABsc) 
 - Crude workaround to libsndfile/soundfile not reading multi-channel .flac files properly 
   - [[code]](https://github.com/kenowr/read_flac) 
 
@@ -26,12 +26,14 @@ Generally, links to the different resources are classified under the following t
 
 ### As first author
 
+- ARAUS: A Large-Scale Dataset and Baseline Models of Affective Responses to Augmented Urban Soundscapes (Kenneth Ooi et al., 2023)
+  - IEEE Transactions on Affective Computing [[manuscript]](https://doi.org/10.48550/arXiv.2207.01078) [[code]](https://github.com/ntudsp/araus-dataset-baseline-models) [[dataset]](https://doi.org/10.21979/N9/9OTEVX) 
+- A Benchmark Comparison of Perceptual Models for Soundscapes on a Large-scale Augmented Soundscape Dataset (Kenneth Ooi et al., 2022)
+  - 24th International Congress on Acoustics (ICA 2022) [[manuscript]](https://hdl.handle.net/10356/164983) [[slides]](https://www.overleaf.com/read/nnptvcnhgcss) 
 - Singapore Soundscape Site Selection Survey (S5): Identification of Characteristic Soundscapes of Singapore via Weighted _k_-means Clustering (Kenneth Ooi et al., 2022)
   - MDPI Sustainability _Special Issue on Designing Sustainable Urban Soundscapes_ [[manuscript]](https://doi.org/10.3390/su14127485) [[code]](https://github.com/ntudsp/singapore-soundscape-site-selection-survey) [[dataset]](https://doi.org/10.21979/N9/BBBPMO) [[map]](https://www.google.com/maps/d/u/0/edit?mid=16fjoOwG-AnmwhTfc4MR11DrL_6iDL979) [[slides]](https://www.overleaf.com/read/srcgjvrhwgth) 
 - Probably Pleasant? A Neural-Probabilistic Approach to Automatic Masker Selection for Urban Soundscape Augmentation (Kenneth Ooi et al., 2022)
   - 47th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2022) [[manuscript]](https://hdl.handle.net/10356/158000) [[dataset]](https://doi.org/10.21979/N9/YSJQKD) [[video]](https://www.youtube.com/watch?v=5Fy1fbZOjfQ) 
-- ARAUS: A Large-Scale Dataset and Baseline Models of Affective Responses to Augmented Urban Soundscapes (Kenneth Ooi et al., 2022)
-  - Submitted to IEEE Transactions on Affective Computing [[manuscript]](https://doi.org/10.48550/arXiv.2207.01078) [[code]](https://github.com/ntudsp/araus-dataset-baseline-models) [[dataset]](https://doi.org/10.21979/N9/9OTEVX) 
 - A Strongly-Labelled Polyphonic Dataset of Urban Sounds with Spatiotemporal Context (Kenneth Ooi et al., 2021)
   - 13th Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC 2021) [[manuscript]](https://arxiv.org/abs/2111.02006) [[code]](https://github.com/ntudsp/singapura) [[dataset-1]](https://doi.org/10.21979/N9/Y8UQ6F) [[dataset-2]](https://zenodo.org/record/5645825#.Ywey8RxBzdw) [[video]](https://www.youtube.com/watch?v=wSO1xNUIouo) 
 - Automation of Binaural Headphone Audio Calibration on an Artificial Head (Kenneth Ooi et al., 2021)
@@ -41,7 +43,7 @@ Generally, links to the different resources are classified under the following t
 - A Deep Learning Approach for Modelling Perceptual Attributes of Soundscapes (Kenneth Ooi et al., 2020)
   - 49th International Congress and Exposition on Noise Control Engineering (Inter-Noise 2020) [[manuscript]](https://www.researchgate.net/publication/344609366_A_deep_learning_approach_for_modelling_perceptual_attributes_of_soundscapes) [[video]](https://www.youtube.com/watch?v=G9zwq1nGZjQ) 
 - Validation of Binaural Recordings with Head Tracking for use in Soundscape Evaluation (Kenneth Ooi et al., 2017)
-  - 46th International Congress and Exposition on Noise Control Engineering (Inter-Noise 2017) [[manuscript]](https://www.researchgate.net/publication/319435678_Validation_of_binaural_recordings_with_head_tracking_for_use_in_soundscape_evaluation) 
+  - 46th International Congress and Exposition on Noise Control Engineering (Inter-Noise 2017) [[manuscript]](https://hdl.handle.net/10356/88176) 
 
 ### As co-author
 
@@ -120,7 +122,7 @@ Generally, links to the different resources are classified under the following t
 ### NTU-BR2201 Risk Modelling
 
 - Extra Questions and Suggested Solutions 
-  - [[overleaf]](https://www.overleaf.com/read/dvqjkkwcvqjn)
+  - [[overleaf]](https://www.overleaf.com/read/dvqjkkwcvqjn) 
   
 ## Contact
 
