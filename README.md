@@ -26,6 +26,8 @@ Generally, links to the different resources are classified under the following t
 
 ### As first author
 
+- Autonomous Soundscape Augmentation with Multimodal Fusion of Visual and Participant-linked Inputs (Kenneth Ooi et al., 2023)
+  - 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023) [[manuscript]](https://arxiv.org/abs/2303.08342) [[dataset]](https://doi.org/10.21979/N9/9OTEVX) [[video]](https://youtu.be/zfbrsi0iM34) [[slides]](https://www.overleaf.com/read/zvsfnjckktbm)
 - ARAUS: A Large-Scale Dataset and Baseline Models of Affective Responses to Augmented Urban Soundscapes (Kenneth Ooi et al., 2023)
   - IEEE Transactions on Affective Computing [[manuscript]](https://doi.org/10.48550/arXiv.2207.01078) [[code]](https://github.com/ntudsp/araus-dataset-baseline-models) [[dataset]](https://doi.org/10.21979/N9/9OTEVX) 
 - A Benchmark Comparison of Perceptual Models for Soundscapes on a Large-scale Augmented Soundscape Dataset (Kenneth Ooi et al., 2022)
