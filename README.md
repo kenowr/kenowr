@@ -27,7 +27,7 @@ Generally, links to the different resources are classified under the following t
 ### As first author
 
 - Autonomous Soundscape Augmentation with Multimodal Fusion of Visual and Participant-linked Inputs (Kenneth Ooi et al., 2023)
-  - 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023) [[manuscript]](https://arxiv.org/abs/2303.08342) [[dataset]](https://doi.org/10.21979/N9/9OTEVX) [[video]](https://youtu.be/zfbrsi0iM34) [[slides]](https://www.overleaf.com/read/zvsfnjckktbm)
+  - 48th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2023) [[manuscript]](https://arxiv.org/abs/2303.08342) [[dataset]](https://doi.org/10.21979/N9/9OTEVX) [[video]](https://youtu.be/zfbrsi0iM34) [[slides]](https://www.overleaf.com/read/zvsfnjckktbm) [[poster]](https://www.overleaf.com/read/jwwpsvfwndyt) 
 - ARAUS: A Large-Scale Dataset and Baseline Models of Affective Responses to Augmented Urban Soundscapes (Kenneth Ooi et al., 2023)
   - IEEE Transactions on Affective Computing [[manuscript]](https://doi.org/10.48550/arXiv.2207.01078) [[code]](https://github.com/ntudsp/araus-dataset-baseline-models) [[dataset]](https://doi.org/10.21979/N9/9OTEVX) 
 - A Benchmark Comparison of Perceptual Models for Soundscapes on a Large-scale Augmented Soundscape Dataset (Kenneth Ooi et al., 2022)
@@ -35,7 +35,7 @@ Generally, links to the different resources are classified under the following t
 - Singapore Soundscape Site Selection Survey (S5): Identification of Characteristic Soundscapes of Singapore via Weighted _k_-means Clustering (Kenneth Ooi et al., 2022)
   - MDPI Sustainability _Special Issue on Designing Sustainable Urban Soundscapes_ [[manuscript]](https://doi.org/10.3390/su14127485) [[code]](https://github.com/ntudsp/singapore-soundscape-site-selection-survey) [[dataset]](https://doi.org/10.21979/N9/BBBPMO) [[map]](https://www.google.com/maps/d/u/0/edit?mid=16fjoOwG-AnmwhTfc4MR11DrL_6iDL979) [[slides]](https://www.overleaf.com/read/srcgjvrhwgth) 
 - Probably Pleasant? A Neural-Probabilistic Approach to Automatic Masker Selection for Urban Soundscape Augmentation (Kenneth Ooi et al., 2022)
-  - 47th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2022) [[manuscript]](https://hdl.handle.net/10356/158000) [[dataset]](https://doi.org/10.21979/N9/YSJQKD) [[video]](https://www.youtube.com/watch?v=5Fy1fbZOjfQ) 
+  - 47th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2022) [[manuscript]](https://hdl.handle.net/10356/158000) [[dataset]](https://doi.org/10.21979/N9/YSJQKD) [[video]](https://www.youtube.com/watch?v=5Fy1fbZOjfQ) [[slides]](https://www.overleaf.com/read/wycfyjdftrmy) [[poster]](https://www.overleaf.com/read/wkshdjwygggr) 
 - A Strongly-Labelled Polyphonic Dataset of Urban Sounds with Spatiotemporal Context (Kenneth Ooi et al., 2021)
   - 13th Asia Pacific Signal and Information Processing Association Annual Summit and Conference (APSIPA ASC 2021) [[manuscript]](https://arxiv.org/abs/2111.02006) [[code]](https://github.com/ntudsp/singapura) [[dataset-1]](https://doi.org/10.21979/N9/Y8UQ6F) [[dataset-2]](https://zenodo.org/record/5645825#.Ywey8RxBzdw) [[video]](https://www.youtube.com/watch?v=wSO1xNUIouo) 
 - Automation of Binaural Headphone Audio Calibration on an Artificial Head (Kenneth Ooi et al., 2021)
