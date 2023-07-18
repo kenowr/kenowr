@@ -55,6 +55,10 @@ Generally, links to the different resources are classified under the following t
   - 52nd International Congress and Exposition on Noise Control Engineering (Inter-Noise 2023) [[manuscript]](https://hdl.handle.net/10356/168669) 
 - Effect of masker selection schemes on the perceived affective quality of soundscapes: A pilot study (Zhen-Ting Ong et al., 2023)
   - 52nd International Congress and Exposition on Noise Control Engineering (Inter-Noise 2023) [[manuscript]](https://hdl.handle.net/10356/168668) [[dataset]](https://doi.org/10.21979/N9/K1P3IL) 
+- Anti-noise window: Subjective perception of active noise reduction and effect of informational masking (Bhan Lam et al., 2023)
+  - Sustainable Cities and Society [[manuscript]](https://arxiv.org/abs/2307.05533) [[code]](https://github.com/ntudsp/SPANR) [[dataset]](https://doi.org/10.21979/N9/SEGEFM) 
+- Crossing the Linguistic Causeway: Ethnonational Differences on Soundscape Attributes in Bahasa Melayu (Bhan Lam et al., 2023)
+  - Applied Acoustics _Special Issue on Soundscape Attributes Translation: Current Projects and Challenges_ (under review) [[manuscript]](https://arxiv.org/abs/2307.03647) [[code]](https://github.com/ntudsp/satp-zsm-stage2) [[dataset]](https://doi.org/10.21979/N9/9AZ21T) 
 - Do uHear? Validation of uHear App for Preliminary Screening of Hearing Ability in Soundscape Studies (Zhen-Ting Ong et al., 2022)
   - 24th International Congress on Acoustics (ICA 2022) [[manuscript]](https://arxiv.org/abs/2207.09221) [[code]](https://github.com/ntudsp/douHear) [[dataset]](https://doi.org/10.21979/N9/JQDI6F) [[slides]](https://www.overleaf.com/read/jjwjmvpmztfr) 
 - Deployment of an IoT System for Adaptive In-Situ Soundscape Augmentation (Trevor Wong et al., 2022)
@@ -139,7 +143,3 @@ Generally, links to the different resources are classified under the following t
 
 - Extra Questions and Suggested Solutions 
   - [[overleaf]](https://www.overleaf.com/read/dvqjkkwcvqjn) 
-
-## Contact
-
-Please feel free to reach me via email (preferred) at [wooi002@e.ntu.edu.sg](mailto:wooi002@e.ntu.edu.sg) or phone at +65-67906901 if you would like to contact me.
