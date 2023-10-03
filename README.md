@@ -61,6 +61,8 @@ Generally, links to the different resources are classified under the following t
   - Applied Acoustics _Special Issue on Soundscape Attributes Translation: Current Projects and Challenges_ (under review) [[manuscript]](https://arxiv.org/abs/2307.03647) [[code]](https://github.com/ntudsp/satp-zsm-stage2) [[dataset]](https://doi.org/10.21979/N9/9AZ21T) 
 - Do uHear? Validation of uHear App for Preliminary Screening of Hearing Ability in Soundscape Studies (Zhen-Ting Ong et al., 2022)
   - 24th International Congress on Acoustics (ICA 2022) [[manuscript]](https://arxiv.org/abs/2207.09221) [[code]](https://github.com/ntudsp/douHear) [[dataset]](https://doi.org/10.21979/N9/JQDI6F) [[slides]](https://www.overleaf.com/read/jjwjmvpmztfr) 
+- Assessment of a Cost-Effective Headphone Calibration Procedure for Soundscape Evaluations (Bhan Lam et al., 2022)
+  - 24th International Congress on Acoustics (ICA 2022) [[manuscript]](https://arxiv.org/abs/2207.12899) [[code]](https://github.com/ntudsp/ica22-calibration) 
 - Deployment of an IoT System for Adaptive In-Situ Soundscape Augmentation (Trevor Wong et al., 2022)
   - 51st International Congress and Exposition on Noise Control Engineering (Inter-Noise 2022) [[manuscript]](https://arxiv.org/abs/2204.13890) 
 - Assessing the Perceived Indoor Acoustic Environment Quality Across Building Occupants in a Tertiary-Care Public Hospital in Singapore (Bhan Lam et al., 2022)
@@ -75,10 +77,14 @@ Generally, links to the different resources are classified under the following t
   - Applied Acoustics _Special Issue on Soundscape Attributes Translation: Current Projects and Challenges_ [[manuscript]](https://arxiv.org/abs/2206.03104) [[code]](https://github.com/ntudsp/satp-zsm-stage1) [[dataset]](https://doi.org/10.21979/N9/0NE37R) 
 - Fast Adaptive Active Noise Control Based on Modified Model-Agnostic Meta-Learning Algorithm (Dongyuan Shi et al., 2021)
   - IEEE Signal Processing Letters [[code]](https://github.com/ShiDongyuan/Meta) 
+- Perceptual Assessment of Operation Noises of Equipment on Construction Sites (Joo Young Hong et al., 2021)
+  - 12th European Conference and Exhibition on Noise Control (EuroNoise 2021) [[manuscript]](https://www.researchgate.net/publication/359310096_Perceptual_assessment_of_operation_noises_of_equipment_on_construction_sites) 
 - Selective Fixed-filter Active Noise Control Based on Convolutional Neural Network (Dongyuan Shi et al., 2021)
   - Signal Processing [[manuscript]](https://www.researchgate.net/publication/354359563_Selective_Fixed-filter_Active_Noise_Control_Based_on_Convolutional_Neural_Network) [[code]](https://github.com/ShiDongyuan/Selective_ANC_CNN) 
 - Development of a feedback interface for in-situ soundscape evaluation (Furi Andi Karnapi et al., 2021)
   - 50th International Congress and Exposition on Noise Control Engineering (Inter-Noise 2021) [[manuscript]](https://www.researchgate.net/publication/353581329_Development_of_a_feedback_interface_for_in-situ_soundscape_evaluation) 
+- Assessment of Inter-IC Sound Microelectromechanical Systems Microphones for Soundscape Reporting (Trevor Wong et al., 2021)
+  - 50th International Congress and Exposition on Noise Control Engineering (Inter-Noise 2021) [[manuscript]](https://www.researchgate.net/publication/353581429_Assessment_of_inter-IC_sound_microelectromechanical_systems_microphones_for_soundscape_reporting) 
 - A General Network Architecture for Sound Event Localization and Detection Using Transfer Learning and Recurrent Neural Network (Thi Ngoc Tho Nguyen et al., 2021)
   - 46th IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP 2021) [[manuscript]](https://arxiv.org/abs/2011.07859) [[code]](https://github.com/thomeou/General-network-architecture-for-sound-event-localization-and-detection) 
 - Extracting Urban Sound Information for Residential Areas in Smart Cities Using an End-to-End IoT System (Ee-Leng Tan et al., 2021)
@@ -142,4 +148,4 @@ Generally, links to the different resources are classified under the following t
 ### NTU-BR2201 Risk Modelling
 
 - Extra Questions and Suggested Solutions 
-  - [[overleaf]](https://www.overleaf.com/read/dvqjkkwcvqjn) 
+  - [[overleaf]](https://www.overleaf.com/read/dvqjkkwcvqjn)
