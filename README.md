@@ -26,6 +26,8 @@ Generally, links to the different resources are classified under the following t
 
 ### As first author
 
+- Lion City Soundscapes: Modified Partitioning Around Medoids for a Perceptually Diverse Dataset of Singaporean Soundscapes (Kenneth Ooi et al., 2024)
+  - JASA Express Letters _Special Issue on Advances in Soundscape: Emerging Trends and Challenges in Research and Practice_ [[manuscript]](https://doi.org/10.1121/10.0025830) [[code]](https://github.com/ntudsp/lion-city-soundscapes) [[dataset]](https://doi.org/10.21979/N9/AVHSBX) [[map]](http://18.136.105.85/) [[gui]](https://github.com/ntudsp/lion-city-soundscapes-visualisation) 
 - ARAUSv2: An Expanded Dataset and Multimodal Models of Affective Responses to Augmented Urban Soundscapes (Kenneth Ooi et al., 2023)
   - 52nd International Congress and Exposition on Noise Control Engineering (Inter-Noise 2023) [[manuscript]](https://hdl.handle.net/10356/168665) [[code]](https://github.com/ntudsp/araus-dataset-baseline-models) [[dataset]](https://doi.org/10.21979/N9/9OTEVX) 
 - Autonomous Soundscape Augmentation with Multimodal Fusion of Visual and Participant-linked Inputs (Kenneth Ooi et al., 2023)
@@ -51,18 +53,24 @@ Generally, links to the different resources are classified under the following t
 
 ### As co-author
 
+- Validating Thai translations of perceptual soundscape attributes: A non-Procrustean approach with a Procrustes projection (Karn N. Watcharasupat et al., 2024)
+  - Applied Acoustics [[code]](https://github.com/ntudsp/satp-tha-stage2) 
+- Crossing the Linguistic Causeway: Ethnonational Differences on Soundscape Attributes in Bahasa Melayu (Bhan Lam et al., 2023)
+  - Applied Acoustics _Special Issue on Soundscape Attributes Translation: Current Projects and Challenges_ [[manuscript]](https://arxiv.org/abs/2307.03647) [[code]](https://github.com/ntudsp/satp-zsm-stage2) [[dataset]](https://doi.org/10.21979/N9/9AZ21T) 
 - Preliminary investigation of the short-term in situ performance of an automatic masker selection system (Bhan Lam et al., 2023)
   - 52nd International Congress and Exposition on Noise Control Engineering (Inter-Noise 2023) [[manuscript]](https://hdl.handle.net/10356/168669) 
 - Effect of masker selection schemes on the perceived affective quality of soundscapes: A pilot study (Zhen-Ting Ong et al., 2023)
   - 52nd International Congress and Exposition on Noise Control Engineering (Inter-Noise 2023) [[manuscript]](https://hdl.handle.net/10356/168668) [[dataset]](https://doi.org/10.21979/N9/K1P3IL) 
 - Anti-noise window: Subjective perception of active noise reduction and effect of informational masking (Bhan Lam et al., 2023)
   - Sustainable Cities and Society [[manuscript]](https://arxiv.org/abs/2307.05533) [[code]](https://github.com/ntudsp/SPANR) [[dataset]](https://doi.org/10.21979/N9/SEGEFM) 
-- Crossing the Linguistic Causeway: Ethnonational Differences on Soundscape Attributes in Bahasa Melayu (Bhan Lam et al., 2023)
-  - Applied Acoustics _Special Issue on Soundscape Attributes Translation: Current Projects and Challenges_ (under review) [[manuscript]](https://arxiv.org/abs/2307.03647) [[code]](https://github.com/ntudsp/satp-zsm-stage2) [[dataset]](https://doi.org/10.21979/N9/9AZ21T) 
+- Quantitative Evaluation Approach for Translation of Perceptual Soundscape Attributes: Initial Application to the Thai Language (Karn N. Watcharasupat et al., 2022)
+  - Applied Acoustics _Special Issue on Soundscape Attributes Translation: Current Projects and Challenges_ [[manuscript]](https://arxiv.org/abs/2203.12245) 
 - Do uHear? Validation of uHear App for Preliminary Screening of Hearing Ability in Soundscape Studies (Zhen-Ting Ong et al., 2022)
   - 24th International Congress on Acoustics (ICA 2022) [[manuscript]](https://arxiv.org/abs/2207.09221) [[code]](https://github.com/ntudsp/douHear) [[dataset]](https://doi.org/10.21979/N9/JQDI6F) [[slides]](https://www.overleaf.com/read/jjwjmvpmztfr) 
 - Assessment of a Cost-Effective Headphone Calibration Procedure for Soundscape Evaluations (Bhan Lam et al., 2022)
   - 24th International Congress on Acoustics (ICA 2022) [[manuscript]](https://arxiv.org/abs/2207.12899) [[code]](https://github.com/ntudsp/ica22-calibration) 
+- Crossing the Linguistic Causeway: A Binational Approach for Translating Soundscape Attributes to Bahasa Melayu (Bhan Lam et al., 2022)
+  - Applied Acoustics _Special Issue on Soundscape Attributes Translation: Current Projects and Challenges_ [[manuscript]](https://arxiv.org/abs/2206.03104) [[code]](https://github.com/ntudsp/satp-zsm-stage1) [[dataset]](https://doi.org/10.21979/N9/0NE37R) 
 - Deployment of an IoT System for Adaptive In-Situ Soundscape Augmentation (Trevor Wong et al., 2022)
   - 51st International Congress and Exposition on Noise Control Engineering (Inter-Noise 2022) [[manuscript]](https://arxiv.org/abs/2204.13890) 
 - Assessing the Perceived Indoor Acoustic Environment Quality Across Building Occupants in a Tertiary-Care Public Hospital in Singapore (Bhan Lam et al., 2022)
@@ -71,10 +79,8 @@ Generally, links to the different resources are classified under the following t
   - 28th International Congress on Sound and Vibration (ICSV 2022) [[manuscript]](https://arxiv.org/abs/2205.04728) [[dataset]](https://doi.org/10.21979/N9/AUE2LL) 
 - Autonomous In-Situ Soundscape Augmentation via Joint Selection of Masker and Gain (Karn N. Watcharasupat et al., 2022)
   - IEEE Signal Processing Letters [[manuscript]](https://arxiv.org/abs/2204.13883) [[video]](https://www.youtube.com/watch?v=cf5m6z-fvjk) [[slides]](https://www.overleaf.com/read/trtsdyzdkgpr) [[poster]](https://www.overleaf.com/read/yxgwzwsfrbzn) 
-- Quantitative Evaluation Approach for Translation of Perceptual Soundscape Attributes: Initial Application to the Thai Language (Karn N. Watcharasupat et al., 2022)
-  - Applied Acoustics _Special Issue on Soundscape Attributes Translation: Current Projects and Challenges_ [[manuscript]](https://arxiv.org/abs/2203.12245) 
-- Crossing the Linguistic Causeway: A Binational Approach for Translating Soundscape Attributes to Bahasa Melayu (Bhan Lam et al., 2022)
-  - Applied Acoustics _Special Issue on Soundscape Attributes Translation: Current Projects and Challenges_ [[manuscript]](https://arxiv.org/abs/2206.03104) [[code]](https://github.com/ntudsp/satp-zsm-stage1) [[dataset]](https://doi.org/10.21979/N9/0NE37R) 
+- A multidimensional assessment of construction machinery noises based on perceptual attributes and psychoacoustic parameters (Joo Young Hong et al., 2022)
+  - Automation in Construction [Publisher embargo until 2024-05-18] [[manuscript]](https://hdl.handle.net/10356/159243) 
 - Fast Adaptive Active Noise Control Based on Modified Model-Agnostic Meta-Learning Algorithm (Dongyuan Shi et al., 2021)
   - IEEE Signal Processing Letters [[code]](https://github.com/ShiDongyuan/Meta) 
 - Perceptual Assessment of Operation Noises of Equipment on Construction Sites (Joo Young Hong et al., 2021)
@@ -101,6 +107,8 @@ Generally, links to the different resources are classified under the following t
   - 23rd International Congress on Acoustics (ICA 2019) [[manuscript]](https://doi.org/10.18154/RWTH-CONV-239595) 
 - Evaluation of preferred levels of natural sounds in situ environment through an augmented reality device (Bhan Lam et al., 2019)
   - 23rd International Congress on Acoustics (ICA 2019) [[manuscript]](https://doi.org/10.18154/RWTH-CONV-239578) 
+- Selecting birdsongs for auditory masking: a clustering approach based on psychoacoustic parameters (Zhen-Ting Ong et al., 2018)
+  - 25th International Congress on Sound and Vibration (ICSV 2018) [[manuscript]](https://hdl.handle.net/10356/170483) 
 - Effect of Masker Orientation on Masking Efficacy in Soundscape Applications (Zhen-Ting Ong et al., 2017)
   - 46th International Congress and Exposition on Noise Control Engineering (Inter-Noise 2017) [[manuscript]](https://hdl.handle.net/10356/88227) 
 
@@ -148,4 +156,5 @@ Generally, links to the different resources are classified under the following t
 ### NTU-BR2201 Risk Modelling
 
 - Extra Questions and Suggested Solutions 
-  - [[overleaf]](https://www.overleaf.com/read/dvqjkkwcvqjn)
+  - [[overleaf]](https://www.overleaf.com/read/dvqjkkwcvqjn) 
+
