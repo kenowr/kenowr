@@ -80,7 +80,7 @@ Generally, links to the different resources are classified under the following t
 - Autonomous In-Situ Soundscape Augmentation via Joint Selection of Masker and Gain (Karn N. Watcharasupat et al., 2022)
   - IEEE Signal Processing Letters [[manuscript]](https://arxiv.org/abs/2204.13883) [[video]](https://www.youtube.com/watch?v=cf5m6z-fvjk) [[slides]](https://www.overleaf.com/read/trtsdyzdkgpr) [[poster]](https://www.overleaf.com/read/yxgwzwsfrbzn) 
 - A multidimensional assessment of construction machinery noises based on perceptual attributes and psychoacoustic parameters (Joo Young Hong et al., 2022)
-  - Automation in Construction [Publisher embargo until 2024-05-18] [[manuscript]](https://hdl.handle.net/10356/159243) 
+  - Automation in Construction [[manuscript]](https://hdl.handle.net/10356/159243) 
 - Fast Adaptive Active Noise Control Based on Modified Model-Agnostic Meta-Learning Algorithm (Dongyuan Shi et al., 2021)
   - IEEE Signal Processing Letters [[code]](https://github.com/ShiDongyuan/Meta) 
 - Perceptual Assessment of Operation Noises of Equipment on Construction Sites (Joo Young Hong et al., 2021)
