@@ -1,6 +1,6 @@
 # Homepage of Kenneth Ooi
 
-Hi! I'm Kenneth, and I'm currently a PhD student at the School of Electrical Engineering, Nanyang Technological University, Singapore. My current research focuses on developing artificial intelligence techniques for soundscape augmentation, but I dabble in other projects related to soundscapes and acoustics here and there.
+Hi! I'm Kenneth, and I previously studied at the School of Electrical Engineering, Nanyang Technological University, Singapore. My current research focuses on developing artificial intelligence techniques for soundscape augmentation, but I dabble in other projects related to soundscapes and acoustics here and there.
 
 ## About this page
 
@@ -53,6 +53,10 @@ Generally, links to the different resources are classified under the following t
 
 ### As co-author
 
+- Do neonates hear what we measure? Assessing neonatal ward soundscapes at the neonates ears (Bhan Lam et al., 2025)
+  - Building and Environment [[manuscript]](https://arxiv.org/abs/2502.00565) [[code]](https://doi.org/10.5281/zenodo.14643229) [[dataset]](https://doi.org/10.21979/N9/8GHNGX) 
+- Automating urban soundscape enhancements with AI: In-situ assessment of quality and restorativeness in traffic-exposed residential areas (Bhan Lam et al., 2024)
+  - Building and Environment [[manuscript]](https://arxiv.org/abs/2407.05744) [[code]](https://doi.org/10.5281/zenodo.11141691) [[dataset]](https://doi.org/10.21979/N9/NEH5TR) 
 - Validating Thai translations of perceptual soundscape attributes: A non-Procrustean approach with a Procrustes projection (Karn N. Watcharasupat et al., 2024)
   - Applied Acoustics [[code]](https://github.com/ntudsp/satp-tha-stage2) 
 - Crossing the Linguistic Causeway: Ethnonational Differences on Soundscape Attributes in Bahasa Melayu (Bhan Lam et al., 2023)
@@ -157,4 +161,3 @@ Generally, links to the different resources are classified under the following t
 
 - Extra Questions and Suggested Solutions 
   - [[overleaf]](https://www.overleaf.com/read/dvqjkkwcvqjn) 
-
